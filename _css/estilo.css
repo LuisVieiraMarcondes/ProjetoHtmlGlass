@@ -28,7 +28,7 @@ a:hover {
 
 div#interface {
 
-    width: 1000px;
+    width: 1000px;;
     background-color: #ffffff;
     margin: -20px auto 10px auto;
     box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.5);
@@ -37,8 +37,8 @@ div#interface {
 header#cabecalho img#icone{
 
     position: absolute;
-    left: 1200px;
-    top: 70px;
+    left: 1100px;
+    top: 50px;
 }
 header#cabecalho {
 
@@ -106,7 +106,7 @@ nav#menu ul{    /*configuramos o menu para o alto do site*/
     text-transform: uppercase;
     position: absolute;
     top: -20px;
-    left: 500px;
+    left: 540px;
 }
 nav#menu li{
 
@@ -132,7 +132,8 @@ nav#menu a{
 nav#menu a:hover {
     color: #ffffff;
 }
-/*formatação das seções*/
+/*formatação das Seções*/
+
 section#corpo {
 
     display: block;
@@ -173,7 +174,8 @@ header#cabecalho-artigo h3{
 }
 
 
-/*Formatação da tabela*/
+/*Formatação da Tabela*/
+
 table#tabelaspec{
 
     border: 1px solid #606060;
@@ -212,6 +214,8 @@ table#tabelaspec caption span{
     margin-top: 10px;
 }
 
+/*Formatação do menu Lateral*/
+
 aside#lateral {
 
     display: block;
@@ -236,6 +240,8 @@ aside#lateral h2{
     color: #ffffff;
     padding: 10px;
 }
+/*Formatação do Rodapé*/
+
 footer#rodape {
 
     clear: both;
