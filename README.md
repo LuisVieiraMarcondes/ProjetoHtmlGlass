@@ -1,7 +1,8 @@
 
 # ProjetoHtmlGuanabara 🖥️
 
-![index do Site](_interface/01-index.jpg)
+![index](_interface/01-index.jpg)
+img[alt=index] {width: 200px;}
 
 
     Nesse projeto criamos um site usando as tecnologias HTML e CSS3 + JavaScript , 
