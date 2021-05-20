@@ -2,7 +2,9 @@
 # ProjetoHtmlGuanabara 🖥️
 
 
-   <img src= "_interface/01-index.jpg" alt="index" width="200"/>
+   <img src= "_interface/01-index.jpg" alt="index" width="300"/>
+   <img src= "_interface/02-specs.jpg" alt="index" width="300"/>
+   <img src= "_interface/05-fale-conosco.jpg" alt="index" width="300"/>
 
 
 
@@ -12,13 +14,11 @@
     onde tivemos introdução desde tags mais básicas até as mais avançadas de HTML5. 
     
     
-   <img src= "_interface/02-specs.jpg" alt="index" width="200"/>
 
         
     Introduzimos ao site conceitos como Iframes em  HTML5, multímidias de Aúdio, 
     Vídeos e criamos Formulários em HTML5.
     
-   <img src= "_interface/05-fale-conosco.jpg" alt="index" width="200"/>
 
 
     Utilizamos JavaScript com objetos e funções com integração ao o HTML5.
