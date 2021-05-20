@@ -23,7 +23,7 @@
     Cabeçalho, Tabelas e Efeitos Visuais com CSS3.
     
     Esse projeto de criação de sites foi executado graças ao curso de 40 horas de 
-    HTML5 do site http://cursoemvideo.com ministrado pelo Professor Gustavo Guanabara, 
+    HTML5 do site <a href="http://cursoemvideo.com" target="_blank"> ministrado pelo Professor Gustavo Guanabara, 
     que conta com uma plataforma de acesso totalmente gratuita e de qualidade e com certificados.
 
 
