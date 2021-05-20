@@ -4,7 +4,7 @@
 
 <img src= "_interface/01-index.jpg"
      alt="index"
-     style="float: left; margin-right: 10px; width: 200px;" />
+     style="width: 200px;" />
 
 
     Nesse projeto criamos um site usando as tecnologias HTML e CSS3 + JavaScript , 
