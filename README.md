@@ -26,6 +26,6 @@
     HTML5 do site http://cursoemvideo.com ministrado pelo Professor Gustavo Guanabara, 
     que conta com uma plataforma de acesso totalmente gratuita e de qualidade e com certificados.
 
- <a href="http://cursoemvideo.com" target="_blank"> 
+ <a href="http://cursoemvideo.com" target="_blank"></a>
 
 
