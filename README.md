@@ -1,6 +1,9 @@
 
 # ProjetoHtmlGuanabara 🖥️
 
+![index do Site](_interface/01-index.jpg)
+
+
     Nesse projeto criamos um site usando as tecnologias HTML e CSS3 + JavaScript , 
     onde tivemos introdução desde tags mais básicas até as mais avançadas de HTML5. 
         
