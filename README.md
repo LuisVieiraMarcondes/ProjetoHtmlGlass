@@ -1,7 +1,7 @@
 
 # ProjetoHtmlGuanabara 🖥️
 
-<div class="box"><img src="_interface/01-index.jpg" width="300px" style=”margin: 1px 1px 1px 1px;” /><img src="_interface/05-fale-conosco.jpg"  width="300px" style=”margin: 1px 1px 1px 1px;” /><img src="_interface/02-specs.jpg" width="300px" style=”margin: 1px 1px 1px 1px;”/></div>
+<div class="box"><img src="_interface/01-index.jpg" width="300px" frameborder="2px" /><img src="_interface/05-fale-conosco.jpg"  width="300px" frameborder="2px" /><img src="_interface/02-specs.jpg" width="300px" frameborder="2px"/></div>
 </div>
 
 
