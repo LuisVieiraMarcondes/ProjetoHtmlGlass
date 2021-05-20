@@ -2,7 +2,7 @@
 # ProjetoHtmlGuanabara 🖥️
 
 
-   <img src= "_interface/01-index.jpg" alt="index" width="300" display="inline-block"/>
+   <img src= "_interface/01-index.jpg" alt="index" width="300" />
    <img src= "_interface/02-specs.jpg" alt="index" width="300" display="inline-block"/>
    <img src= "_interface/05-fale-conosco.jpg" alt="index" width="300" display="inline-block"/>
 
