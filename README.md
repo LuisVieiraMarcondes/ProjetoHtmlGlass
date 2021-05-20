@@ -1,10 +1,26 @@
 
 # ProjetoHtmlGuanabara 🖥️
 
+<div class="box">
+    <img src="_interface/01-index.jpg"/>
+    <span>Index</span>
+</div>
+<div class="box">
+    <img src="_interface/02-specs.jpg"/>
+    <span>Specs</span>
+</div>
 
-   <img src= "_interface/01-index.jpg" alt="index" width="300" />
-   <img src= "_interface/02-specs.jpg" alt="index" width="300" display="inline-block"/>
-   <img src= "_interface/05-fale-conosco.jpg" alt="index" width="300" display="inline-block"/>
+<div class="box">
+    <img src="_interface/05-fale-conosco.jpg"/>
+    <span>contact</span>
+</div>
+
+<style>
+div.box {
+	width: 300px;
+	display: inline-block;
+}
+</style>
 
 
 
