@@ -1,8 +1,10 @@
 
 # ProjetoHtmlGuanabara 🖥️
 
-![index](_interface/01-index.jpg)
-img[alt=index] {width: 200px;}
+
+<img src="_interface/01-index.png"
+     alt="Markdown index"
+     style="float: left; margin-right: 10px;" />
 
 
     Nesse projeto criamos um site usando as tecnologias HTML e CSS3 + JavaScript , 
