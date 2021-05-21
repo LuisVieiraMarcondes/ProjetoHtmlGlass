@@ -1,7 +1,7 @@
 
 # ProjetoHtmlGuanabara 🖥️
 
-<div class="box"><img src="_interface/01-index.jpg" width="300px" margin-right="5px" /><img src="_interface/05-fale-conosco.jpg"  width="300px" margin-right="5px" /><img src="_interface/02-specs.jpg" width="300px" margin-right="5px"/></div>
+<div class="box"><img src="_interface/01-index.jpg" width="300px"/>&nbsp;<img src="_interface/05-fale-conosco.jpg"  width="300px" margin-right="5px" />&nbsp;<img src="_interface/02-specs.jpg" width="300px" margin-right="5px"/></div>
 </div>
 
 
@@ -25,7 +25,4 @@
     Esse projeto de criação de sites foi executado graças ao curso de 40 horas de 
     HTML5 do site http://cursoemvideo.com ministrado pelo Professor Gustavo Guanabara, 
     que conta com uma plataforma de acesso totalmente gratuita e de qualidade e com certificados.
-
- <a href="http://cursoemvideo.com" target="_blank"></a>
-
-
+    
