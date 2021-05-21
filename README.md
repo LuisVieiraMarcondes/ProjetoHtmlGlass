@@ -4,6 +4,8 @@
 <div class="box"><img src="_interface/01-index.jpg" width="300px"/>&nbsp;&nbsp;&nbsp;<img src="_interface/05-fale-conosco.jpg"  width="300px" margin-right="5px" />&nbsp;&nbsp;&nbsp;<img src="_interface/02-specs.jpg" width="300px" margin-right="5px"/></div>
 </div>    
 
+
+
   Nesse projeto criamos um site usando as tecnologias HTML e CSS3 + JavaScript , 
   onde tivemos introdução desde tags mais básicas até as mais avançadas de HTML5.
     
